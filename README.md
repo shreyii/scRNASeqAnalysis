@@ -2,7 +2,7 @@
 
 Author: Shreya Rajasekar 
 
-Citation: Will be made public shortly 
+Citation: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.071772  
 
 This repository contains the scRNA seq analysis run on naive peripheral blood samples from Mus musculus. The analysis was conducted using Scanpy. It includes basic preprocessing, quality control, clustering, and visualization of gene expression patterns following a standard workflow. This study is specifically for analyzing and drawing conclusions on the monocytes subset.
 
